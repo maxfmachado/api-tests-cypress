@@ -1,0 +1,17 @@
+{
+    "create": {
+        "user": {
+            "name": "Felipe Machado",
+            "email": "felipe@gmail.com",
+            "password": "pwd123"
+        },
+        "task": {
+            "name": "Pagar Fatura do Cartao",
+            "tags": [
+                "nubank",
+                "ouro",
+                "smiles"
+            ]
+        }
+    }
+}

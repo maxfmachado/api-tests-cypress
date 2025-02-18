@@ -1,0 +1,18 @@
+{
+  "name": "mark85-cypress-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "author": "Max Machado",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^14.0.3",
+    "cypress-plugin-api": "^2.11.2"
+  },
+  "dependencies": {
+    "mongodb": "^6.13.0"
+  }
+}

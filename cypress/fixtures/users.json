@@ -1,0 +1,37 @@
+{
+  "login": {
+    "name": "Jennifer Aniston",
+    "email": "jenifer@gmail.com",
+    "password": "pwd123"
+  },
+
+  "invalid_password": {
+    "email": "maxmachado.x@gmail.com",
+    "password": "123456"
+  },
+
+  "email_not_found": {
+    "email": "email_inexistente@gmail.com",
+    "password": "pwd123"
+  },
+
+  "create": {
+    "name": "Max Machado II",
+    "email": "max2@gmail.com",
+    "password": "pwd123"
+  },
+
+  "duplicated_email": {
+    "name": "James Gunn",
+    "email": "james@hotmail.com",
+    "password": "pwd123"
+  },
+
+  "required_fields": {
+    "name": "Margot",
+    "email": "email@email.com",
+    "password": "pwd123"
+  }
+
+  
+}
