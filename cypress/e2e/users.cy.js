@@ -10,7 +10,7 @@ describe('Post /users', () => {
 
     const user = this.users.create
 
-    cy.task('deleteUser', user.email)
+    cy.task('removeUser', user.email)
 
     cy.postUser(user)
       .then(response => {
@@ -22,7 +22,7 @@ describe('Post /users', () => {
 
     const user = this.users.duplicated_email
 
-    cy.task('deleteUser', user.email)
+    cy.task('removeUser', user.email)
 
     cy.postUser(user)
 

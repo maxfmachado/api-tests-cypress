@@ -1,0 +1,60 @@
+{
+    "list": {
+        "user": {
+            "name": "Charles Xavier",
+            "email": "charles@gmail.com",
+            "password": "pwd123"
+        },
+        "tasks": [
+            {
+                "name": "Estud4r livro",
+                "tags": [
+                    "stars",
+                    "sky",
+                    "iss"
+                ]
+            },
+            {
+                "name": "Estud4r Cypress",
+                "tags": [
+                    "javascript",
+                    "automacao",
+                    "testes"
+                ]
+            },
+            {
+                "name": "Estud4r curso",
+                "tags": [
+                    "papito",
+                    "fernando",
+                    "empresa"
+                ]
+            }
+        ]
+    },
+    "unique": {
+        "user": {
+            "name": "Tony Stark",
+            "email": "tony@gmail.com",
+            "password": "pwd123"
+        },
+        "task": {
+            "name": "Estud4r livro",
+            "tags": [
+                "stars",
+                "sky",
+                "iss"
+            ]
+        }
+    },
+    "not_found": {
+        "user": {
+            "name": "Bruce Banner",
+            "email": "hulk@gmail.com",
+            "password": "pwd123"
+        },
+        "task": {
+            "name": "Construir maquina de radiacao gama"
+        }
+    }
+}

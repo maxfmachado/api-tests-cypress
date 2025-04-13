@@ -13,5 +13,15 @@
                 "smiles"
             ]
         }
+    },
+    "dup": {
+        "user": {
+            "name": "Max Machado",
+            "email": "maxfelipe@gmail.com",
+            "password": "pwd123"
+        },
+        "task": {
+            "name": "Fazer compras no mercado"
+        }
     }
 }
